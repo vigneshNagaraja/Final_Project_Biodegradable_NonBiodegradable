@@ -1,1 +1,1 @@
-# Final_Project_Biodegradable_NonBiodegradable
+An AI-Driven Approach to Biodegradable and Non-Biodegradable Waste Classification
